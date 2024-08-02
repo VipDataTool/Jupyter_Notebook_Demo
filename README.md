@@ -42,4 +42,4 @@ In this guide, we provide examples of basic tasks:
    - Generate text and images using OpenAI's tools.
    - Example: Use OpenAI to generate a short story and an image based on a prompt.
 
-In conclusion, Jupyter Notebooks are versatile tools for coding, data analysis, and visualization. This guide provides a basic foundation to help you start exploring their capabilities. Happy coding!
+Jupyter Notebooks are versatile tools for coding, data analysis, and visualization. This guide provides a basic foundation to help you start exploring their capabilities. Happy coding!
